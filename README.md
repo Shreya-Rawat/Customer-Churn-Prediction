@@ -1,4 +1,5 @@
 # Customer Churn Prediction 
+## A Supervised Machine Learning Project
 
 DOMAIN: Telecom
 
