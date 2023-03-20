@@ -46,7 +46,7 @@ The data set includes information about:
 2. Data Cleansing:
    - Dropping any missing and duplicate values
    - Dropping redundant columns
-   - Encoding categorical variables
+   - One Hot Encoding of categorical variables
 3. Exploratory Data Analysis:
    - Detailed statistical analysis on the data.
    - Detailed univariate, bivariate, and multivariate analysis
