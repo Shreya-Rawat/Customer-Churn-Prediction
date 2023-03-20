@@ -73,6 +73,6 @@ The data set includes information about:
 
 ### CONCLUSIONS:
     Concluding this case-study we can say that for selecting our machine learning model we should take care of the following:
-    - An imbalance in dataset should be avoided but if it is present then we should not select our model based purely on overall accuracy but observe other metrics as     well.
+    - An imbalance in dataset should be avoided but if it is present then we should not select our model based purely on overall accuracy but observe other metrics as well.
     - When we have to consider imbalance dataset only, the accuracies alone can be misleading for comparing various ML models.
     - We should also comapare train and test accuracies to check if there is overfitting or underfitting in our model.
