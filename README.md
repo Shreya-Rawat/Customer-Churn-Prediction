@@ -66,6 +66,7 @@ The data set includes information about:
      - Test Accuracy = 70.6
  6. Selecting Best Trained Model:
     On the basis of Train and Test accuracies as well as other performance metrics like precision, recall and f1-score we were able to conclude that the best trained       model is :
+    
     Logistic regression:
      - Train Accuracy = 80.7
      - Test Accuracy = 80.4
