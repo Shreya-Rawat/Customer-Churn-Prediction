@@ -41,8 +41,8 @@ The data set includes information about:
 
 ### Steps taken in the Project:
 1. Data Import:
-   Importing the datasets 'TelecomCustomerChurn1' and 'TelecomCustomerChurn2' in MYSQL server using MYSQL workbench.
-   Then importing them into jupyter notebook and merging all datasets into one.
+   - Importing the datasets 'TelecomCustomerChurn1' and 'TelecomCustomerChurn2' in MYSQL server using MYSQL workbench.
+   - Then importing them into jupyter notebook and merging all datasets into one.
 2. Data Cleansing:
    - Dropping any missing and duplicate values
    - Dropping redundant columns
