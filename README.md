@@ -56,19 +56,19 @@ The data set includes information about:
 5. Model training, and testing:
    We trained 3 models:
    - Logistic regression:
-     Train Accuracy = 80.7
-     Test Accuracy = 80.4
+     - Train Accuracy = 80.7
+     - Test Accuracy = 80.4
    - KNN:
-     Train Accuracy = 99.8
-     Test Accuracy = 74.4
+     - Train Accuracy = 99.8
+     - Test Accuracy = 74.4
    - Naive Bayes:
-     Train Accuracy = 69.4
-     Test Accuracy = 70.6
+     - Train Accuracy = 69.4
+     - Test Accuracy = 70.6
  6. Selecting Best Trained Model:
     On the basis of Train and Test accuracies as well as other performance metrics like precision, recall and f1-score we were able to conclude that the best trained       model is :
     Logistic regression:
-     Train Accuracy = 80.7
-     Test Accuracy = 80.4
+     - Train Accuracy = 80.7
+     - Test Accuracy = 80.4
 
 ### CONCLUSIONS:
     Concluding this case-study we can say that for selecting our machine learning model we should take care of the following:
