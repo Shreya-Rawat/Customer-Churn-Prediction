@@ -12,7 +12,7 @@ The data set includes information about:
 - Customers who left within the last month : the column is called Churn (target)
 - Services that each customer has signed up for : phone, multiple lines, internet, online security, onlinebackup,device protection, tech support, and streaming TV and movies
 - Customer account information : how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-- Demographic info about customers : gender, age range, and if they have partners and dependentsPROJECT OBJECTIVE: Build a model that will help to identify the potential customers who have a higher probability to churn. This will help the company to understand the pinpoints and patterns of customer churn and will increase the focus on strategizing customer retention.
+- Demographic info about customers : gender, age range, and if they have partners and dependents
 
 ### Attributes :
 (Total 21 attributes)
